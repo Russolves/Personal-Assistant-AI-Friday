@@ -1,5 +1,5 @@
 # Friday: Accessibility-focused Application Empowering Inclusive Interactions
-Friday is a full-stack Angular web application designed with a primary focus on empowering individuals with disabilities. Drawing inspiration from the iconic AI assistant in the Marvel Cinematic Universe, the platform offers a solution that transcends language barriers. By seamlessly integrating Google Cloud Services and ChatGPT's API, Friday delivers a user journey marked by inclusive, AI-driven voice interactions.
+Friday is a full-stack Angular web application designed with a primary focus on empowering individuals with disabilities. Drawing inspiration from the iconic AI assistant in the Marvel Cinematic Universe, the platform offers a solution that transcends language barriers. By integrating Google Cloud Services and ChatGPT's API, Friday delivers a user journey marked by inclusive, AI-driven voice interactions.
 
 One of Friday's standout features is its multilingual capability, accommodating both Mandarin and English speakers. Users have the flexibility to activate the virtual assistant using trigger words and phrases in either language, making it a universally accessible tool.
 
@@ -8,10 +8,10 @@ In addition to its multilingual prowess, Friday introduces a detailed level of p
 ## Key Features
 
 ### 1. Voice-Controlled Accessibility
-Friday's core innovation lies in its voice-controlled accessibility, enabling individuals with physical impairments to effortlessly interact with the application. Through the integration of Google Cloud Services and ChatGPT's API, users can navigate and communicate within the application using natural language and voice commands.
+Friday's core innovation lies in its voice-controlled accessibility, enabling individuals with physical impairments to interact with the application. Through the integration of Google Cloud Services and ChatGPT's API, users can navigate and communicate within the application using natural language and voice commands.
 
 ### 2. Robust Server-Side Architecture
-At the heart of Friday is a robust server-side architecture, powered by Node.js and Express.js. My meticulously engineered server-side APIs optimize data flow, response times, and overall backend efficiency. This ensures that users experience a seamless and responsive interaction with the application, irrespective of their abilities.
+At the heart of Friday is a robust server-side architecture, powered by Node.js and Express.js. My engineered server-side APIs optimize data flow, response times, and overall backend efficiency. This ensures that users experience a seamless and responsive interaction with the application, irrespective of their abilities.
 
 ### 3. Inclusivity as the Driving Force
 Friday is not just another web application; it's a commitment to inclusivity. As a graduate Biomedical Engineering student, my mission is to break down technological barriers for physically impaired individuals, expanding user engagement and promoting accessibility. By championing accessibility, Friday empowers a broader audience to harness the power of AI-driven voice interactions.
